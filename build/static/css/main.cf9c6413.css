@@ -1,0 +1,2 @@
+body{background-color:aqua;text-align:center}.title{color:brown;font-size:50px;text-shadow:5px 5px #000;text-transform:uppercase}.card{margin-top:70px}.btn{margin-top:20px}h4{color:#000}.subTitle{color:#fff;font-size:40px;margin-top:50px;text-transform:uppercase}.parent{grid-column-gap:20px;grid-row-gap:30px;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(4,1fr)}.parent,.section{align-items:center}.section{display:flex;justify-content:center;padding:50px}
+/*# sourceMappingURL=main.cf9c6413.css.map*/
