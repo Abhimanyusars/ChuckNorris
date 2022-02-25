@@ -74,12 +74,11 @@ h4{
   grid-template-rows: repeat(4, 1fr);
   grid-column-gap: 20px;
   grid-row-gap: 30px;
-  }
+}
   
 .section {
   padding: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }  
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  } 
